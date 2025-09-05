@@ -1,2 +1,2 @@
-﻿# 7DaysOfCode-allDays
+ #7DaysOfCode
 
