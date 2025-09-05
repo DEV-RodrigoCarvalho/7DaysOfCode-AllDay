@@ -25,5 +25,3 @@ if (numeroDez == stringDez && typeof numeroDez != typeof stringDez) {
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
-
-{};
